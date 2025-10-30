@@ -1,0 +1,9 @@
+#Arquivo de senhas
+.env
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
