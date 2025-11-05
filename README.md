@@ -20,7 +20,7 @@ Os dashboards revelam padrões importantes de segurança nas rodovias federais, 
 - Períodos do dia mais perigosos
 - Tipos de veículos mais envolvidos
 
-## 🚀 Dashboard Final no Power BI
+## Dashboard Final no Power BI
 
 Aqui está uma prévia do dashboard interativo criado a partir dos dados limpos e carregados no banco MySQL.
 
