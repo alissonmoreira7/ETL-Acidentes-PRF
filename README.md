@@ -27,7 +27,7 @@ Os dashboards revelam padrões importantes para tomada de decisão relacionadas 
 
 Aqui está uma prévia do dashboard interativo criado a partir dos dados limpos e carregados no banco MySQL.
 
-![Prévia do Dashboard](image.png)
+![Prévia do Dashboard](image-1.png)
 
 O arquivo `.pbix` completo também está disponível neste repositório.
 
