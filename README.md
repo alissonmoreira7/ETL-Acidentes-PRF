@@ -15,10 +15,14 @@ Este projeto implementa um pipeline completo de Engenharia de Dados (ETL) para p
 - Power BI
 
 ## Resultados
-Os dashboards revelam padrões importantes de segurança nas rodovias federais, como:
+Os dashboards revelam padrões importantes para tomada de decisão relacionadas a segurança nas rodovias federais, como:
 - Estados com maior número de acidentes
+- Mapa de calor (Heatmap) apresentando os estados com maior número de acidentes
 - Períodos do dia mais perigosos
-- Tipos de veículos mais envolvidos
+- Tipos de acidentes mais recorrentes
+- Visualização do número acidentes graves e leves
+- Principais tipos de acidentes
+- Principais causas dos acidentes
 
 ## Dashboard Final no Power BI
 
