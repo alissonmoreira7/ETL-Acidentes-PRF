@@ -21,7 +21,6 @@ Os dashboards revelam padrões importantes para tomada de decisão relacionadas 
 - Períodos do dia mais perigosos
 - Tipos de acidentes mais recorrentes
 - Visualização do número acidentes graves e leves
-- Principais tipos de acidentes
 - Principais causas dos acidentes
 
 ## Dashboard Final no Power BI
